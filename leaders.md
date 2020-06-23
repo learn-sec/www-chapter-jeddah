@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Zakariya Mohammad Syed](mailto:zakariya.syed@owasp.org)
+* [Syed Mohommaed Abar Shah](mailto:syed.abrar@owasp.org)
