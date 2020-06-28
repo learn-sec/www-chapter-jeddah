@@ -9,7 +9,7 @@ region: Asia
 
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Jeddah chapter. Chapter updates will be provided here soon inshaAllah. (This includes meetups and any other pertinent information)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
