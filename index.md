@@ -7,9 +7,6 @@ region: Asia
 
 ---
 
-##<div style='color:red;'>
-
-##</div>
 
 ## Welcome
 Include some information here about your chapter
